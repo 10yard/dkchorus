@@ -1,6 +1,6 @@
 # **Donkey Kong Chorus** #
 
-Tested with latest MAME version 0.235
+Tested with latest MAME version 0.236
 (Compatible with MAME and WolfMAME versions from 0.196 upwards)
 
 The samples and music of Donkey Kong are replaced with acapella sounds which were extracted from this video by Maytree - https://youtu.be/BsfkXoJHyKc
